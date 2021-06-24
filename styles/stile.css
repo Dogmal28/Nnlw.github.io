@@ -511,3 +511,8 @@ footer .social a:hover {
     opacity: 1;
     transform: translateY(0);
 }
+
+
+/*resposive*/
+
+@media (min-width: 992px) {}
